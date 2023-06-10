@@ -1,4 +1,4 @@
-/* Programa para envio de Mensagem
+/* Programa para envio de Mensagem - Baseado no código de: 
   Blog Eletrogate https://blog.eletrogate.com/guia-basico-dos-modulos-tx-rx-rf-433mhz
   Arduino UNO - IDE 1.8.5 - Modulo TX RF 433 MHz
   Gustavo Murta   6/setembro/2018
